@@ -1,0 +1,37 @@
+.top-brands {
+  padding-top: 30px;
+}
+
+.top-brand-container {
+}
+.brand-image-container {
+  height: 100px;
+  width: 160px;
+  border-radius: 50%;
+  background-size: contain;
+  cursor: pointer;
+}
+
+.top-brand-image {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  /* object-fit: contain; */
+}
+.brand-title {
+  padding-top: 15px;
+  font-size: 20px;
+}
+/*
+.brand-time {
+  padding-left: 55px; */
+/* } */
+
+.brand-title-time {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+  border-radius: 50%;
+}
